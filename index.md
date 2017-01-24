@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
+		<title>Rui Pei</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
@@ -22,8 +22,8 @@
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-        		<li><a href="https://github.com/hankquinlan">github.com/peirui</a></li>
+        		<li><a href="mailto:rui.pei@asc.upenn.edu">email</a></li>
+        		<li><a href="https://github.com/peirui">github.com/peirui</a></li>
 			</ul>
 		</footer>
 	</body>
