@@ -1,0 +1,10 @@
+---
+title: "index"
+author: "Rui Pei"
+date: "January 24, 2017"
+output: 
+  html_document:
+    keep_md: true
+---
+
+
